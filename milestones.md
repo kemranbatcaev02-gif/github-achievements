@@ -3,3 +3,4 @@
 - Milestone step 4 unlocked
 - Milestone step 5 unlocked
 - Milestone step 6 unlocked
+- Milestone step 7 unlocked
