@@ -8,3 +8,4 @@
 - Milestone step 9 unlocked
 - Milestone step 10 unlocked
 - Milestone step 11 unlocked
+- Milestone step 12 unlocked
